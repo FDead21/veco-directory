@@ -1,0 +1,14 @@
+[
+  {
+    "owner_email": "deny.krwg@yahoo.com",
+    "url": "https://irxgghyosenmteuvsqtd.supabase.co",
+    "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlyeGdnaHlvc2VubXRldXZzcXRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkxODQ2MzAsImV4cCI6MjA5NDc2MDYzMH0.yEvK0ByDqXRmj0Vw_M7DzUnRYv8eCFFRtZPYisMxvMU",
+    "label": "Pak Deni"
+  },
+  {
+    "owner_email": "REPLACE_WITH_2ND_CLIENT_OWNER_EMAIL",
+    "url": "https://jixgqddclaoohcbokxdb.supabase.co",
+    "anon_key": "REPLACE_WITH_ANON_KEY_FROM_SETTINGS_API",
+    "label": "Om BonkQ"
+  }
+]
